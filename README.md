@@ -1,5 +1,4 @@
 # Simple-HTTP-Server
-# Simple-HTTP-Server
 A project for COMP30023: Computer Systems at the University of Melbourne.
 Server can receive, process and respond to simple HTTP GET requests.
 To run the server, after compiling (server.c and httplib.h), use the command:
